@@ -5,8 +5,9 @@ Below are some samples from testing. Notice that RNO prediction reduces $\delta 
 Figure 1. Visualization of Airfoil-Euler. 
 ![fig1](./fig/airfoil2d_euler_y_component_0.png)
 
-Figure 2. Visualization of Airfoil-RANS, turbulent viscosity $\mu_t$. 
+Figure 2. Visualization of Airfoil-RANS, turbulent viscosity $\mu_t$, and an example of constructing deformation $\varphi$ with irregular mesh.
 ![fig2](./fig/airfoil2d_rans_y_component_3.png)
+![fig2.1](./fig/Airfoil-RANS-phi.png)
 
 Figure 3. Visualization of NS2d-circle, pressure $p$. 
 ![fig3](./fig/ns2d_y_component_2.png)
