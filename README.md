@@ -15,6 +15,12 @@ Figure 1. Visualization of Airfoil-Euler. The deformation for this dataset is ea
 ![fig1.1](./fig/Airfoil-euler-phi.png)
 
 Figure 2. Visualization of Airfoil-RANS, turbulent viscosity $\mu_t$, and an example of constructing deformation $\varphi$ with irregular mesh.
+|    Model    |     $u$     |     $v$     |     $p$     |   $\mu_t$   |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+|     GNOT    |   0.51      |    0.44     |    0.61     |    0.31     |
+|    R-GNOT   |  **0.3**    |  **0.19**   |   *0.11*    |  **0.19**   |
+|  RNO (Ours) |   *0.32*    |   *0.32*    |  **0.096**  |   *0.22*    |
+
 ![fig2](./fig/airfoil2d_rans_y_component_3.png)
 ![fig2.1](./fig/Airfoil-RANS-phi.png)
 
