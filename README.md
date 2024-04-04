@@ -1,6 +1,6 @@
 # RNO
 
-Below are some samples from testing. Notice that RNO prediction reduces $\delta u$, the difference between GT query $u_q$ and pushforward of reference $u_r$.  
+Below are some qualitative samples from testing. Notice that RNO prediction has smaller magnitude than $\delta u$, indicating RNO have learned and reduced the difference between GT query $u_q$ and pushforward of reference $u_r$.  
 
 Figure 1. Results and visualization of Airfoil-Euler. The deformation for this dataset is easy to get since there is a 1-on-1 mapping of mesh grids between cases. The result is updated to
 |    Model    |  l2 Error   |
